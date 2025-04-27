@@ -2,7 +2,7 @@
 
 A fun and interactive memory game inspired by the classic "Simon Says" — built using **HTML**, **CSS**, and **JavaScript**.
 
-🌐 **Live Demo**: [simon-say-game-psi.vercel.app](https://simon-say-game-psi.vercel.app)
+🌐 **Live Demo**: [simon-say-game](https://simon-say-game-psi.vercel.app)
 
 ---
 
